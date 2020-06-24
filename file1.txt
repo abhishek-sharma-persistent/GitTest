@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is test file.
 Second line.
 Third Line
+=======
+this is test file.
+>>>>>>> parent of 7f6f37d... added second line
